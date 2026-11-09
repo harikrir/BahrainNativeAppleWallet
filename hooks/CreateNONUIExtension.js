@@ -7,8 +7,8 @@ var applicationGroup = "group.com.aub.mobilebanking.uat.bh";
 var NONUI_Identifier = "com.aub.mobilebanking.uat.bh.WNonUI";
 var UI_Identifier = "com.aub.mobilebanking.uat.bh.WUI";
 
-var UI_Provisioning = "6ca2aa84-5150-4506-b282-cd4ee28fab97";
-var NONUI_Provisioning = "402593f8-fed2-45ec-9909-7a9afd92c8aa";
+var UI_Provisioning = "8c08d73f-a987-4a27-a3b5-d5a66438fb02";
+var NONUI_Provisioning = "ec69590b-15f4-4014-85e8-4cab1f4b94ea";
 
 var BANKTeamID = "T57RH2WT3W";
 
