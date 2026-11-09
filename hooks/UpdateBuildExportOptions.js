@@ -12,9 +12,9 @@ module.exports = function (context) {
     const uiExtnBundleID = "com.aub.mobilebanking.uat.bh.WUI";
     const nonuiExtnBundleID = "com.aub.mobilebanking.uat.bh.WNonUI";
 
-    const mainApp_PProfile = "1092c096-b376-4c42-9638-a4714e5dd4b5";
-    const uiExtn_PProfile = "6ca2aa84-5150-4506-b282-cd4ee28fab97";
-    const nonuiExtn_PProfile = "402593f8-fed2-45ec-9909-7a9afd92c8aa";
+    const mainApp_PProfile = "1ec76793-4a05-45c8-a7a0-3531f4e632de";
+    const uiExtn_PProfile = "8c08d73f-a987-4a27-a3b5-d5a66438fb02";
+    const nonuiExtn_PProfile = "ec69590b-15f4-4014-85e8-4cab1f4b94ea";
 
     console.log(`📝 mainAppBundleID: ${mainAppBundleID}, mainApp_PProfile: ${mainApp_PProfile}`);
     console.log(`📝 uiExtnBundleID: ${uiExtnBundleID}, uiExtn_PProfile: ${uiExtn_PProfile}`);
